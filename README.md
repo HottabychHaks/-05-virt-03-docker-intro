@@ -1,2 +1,15 @@
-# -05-virt-03-docker-intro
-https://disk.yandex.ru/i/J-ABFFE1yuMfEQ
+Задание 1
+https://hub.docker.com/r/hottabychhaks/custom-nginx
+
+Задание 2
+
+Задание 3
+Зашли в докер и комбинацией ctrl+c был завершен его процес
+Проброс происходит 80 порта, но изменили конфиг nginx и он работает на 81 порте
+
+Задача 4
+
+
+Задача 5
+
+Первоочередно используется compose.yaml
